@@ -24,4 +24,10 @@ A brief discussion of what you anticipate will be the hardest and most time-cons
 - Week 5: Present!
 
 ## References and Links
-1. Dandelion Painting Project Inspiration: https://vimeo.com/40904471
+1. A similar interactive painting that allows a user to blow on dandelion lights that are painted using a traditional Chinese brush painting style: https://vimeo.com/40904471 
+2. Research on the meaning and inspiration behind the original starry night:
+3. https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889 
+  - “This morning I saw the countryside from my window a long time before sunrise, with nothing but the morning star, which looked very big,” wrote van Gogh to his brother Theo, describing his inspiration for one of his best-known paintings, The Starry Night (1889). 
+4. http://mentalfloss.com/article/62621/11-things-you-didnt-know-about-starry-night
+  - This connection gives a special significance to this van Gogh quote, "Looking at the stars always makes me dream. Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star."
+5. TED Ed: The Unexpected Math behind The Starry Night: https://www.youtube.com/watch?v=PMerSm2ToFY
