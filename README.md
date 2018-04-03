@@ -2,9 +2,7 @@
 We propose making an interactive version of Van Gogh's Starry Night, which invites the user to blow on the painting, triggering LEDs behind the painting to blink in different patterns, resembling the movement of stars and wind. The bottom right of the painting includes a town with houses that will also have LEDs that turn on and off to mimic people moving about the town. 
 
 ## Summary
-Here, write a few paragraphs (half a page?) or so describing the goals of your project.
-
-Include a discussion how it will be interactive or responsive to the environment.
+The main goal of the project is to incorporate interactive elements into Van Gogh’s Starry Night through the use of LEDs and sound sensors positioned behind a semi-transparent printout of the painting. The audience will first blow into a small microphone on the left side of the painting, positioned behind the gust of wind. This will trigger a succession of LEDs to light up across the painting from left to right. First, a line of LEDs will light up throughout the gusts of wind, then fade away. Next, the center of the stars will light up and the lights surrounding the centers will light up and fade, mimicking a glowing effect. Finally, the lights in the houses will light up and fade. 
 
 ## Component Parts
 The Van Gogh painting will be printed on a large sheet of paper that will allow the light of the LEDs to diffuse through. Extra paper can be layered or cut out to allow different amounts of light through. 
