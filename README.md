@@ -24,5 +24,5 @@ What parts of the project do you anticipate you will complete in each of the nex
 - Week 4:
 - Week 5: Present!
 
-## References and link
+## References and Links
 1. Dandelion Painting Project Inspiration: https://vimeo.com/40904471
