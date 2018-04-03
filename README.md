@@ -7,9 +7,13 @@ Here, write a few paragraphs (half a page?) or so describing the goals of your p
 Include a discussion how it will be interactive or responsive to the environment.
 
 ## Component Parts
-From what pieces will you build your project? Will you build or buy those pieces?
+The Van Gogh painting will be printed on a large sheet of paper that will allow the light of the LEDs to diffuse through. Extra paper can be layered or cut out to allow different amounts of light through. 
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+Components:
+Wooden frame and large sheet of semi-transparent paper to display painting
+Sound sensor to detect user’s breath (INPUT)
+LEDs, to resemble stars (OUTPUT)
+
 ### Block Diagram
 
 ## Challenges
