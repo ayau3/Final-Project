@@ -14,10 +14,9 @@ Wooden frame and large sheet of semi-transparent paper to display painting
 Sound sensor to detect user’s breath (INPUT)
 LEDs, to resemble stars (OUTPUT)
 
+### Block Diagram
 ![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.40.49%20PM.png)
 ![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.41.29%20PM.png)
-
-### Block Diagram
 
 ## Challenges
 
