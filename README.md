@@ -1,5 +1,5 @@
 # Starry Night Interactive Painting
-We propose to make an interactive version of Van Gogh's starry night, which invites the user to blow on the painting, triggering LEDs behind the painting to blink in different patterns.
+We propose making an interactive version of Van Gogh's starry night, which invites the user to blow on the painting, triggering LEDs behind the painting to blink in different patterns.
 
 # Summary
 Here, write a few paragraphs (half a page?) or so describing the goals of your project.
