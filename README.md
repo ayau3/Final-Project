@@ -24,4 +24,4 @@ Week 4:
 Week 5: Present!
 
 # References and link
-1. https://vimeo.com/40904471
+1. Dandelion Painting Project Inspiration: https://vimeo.com/40904471
