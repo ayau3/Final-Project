@@ -1,0 +1,28 @@
+// the setup function runs once when you press reset or power the board
+
+int sensorPin = A0;
+int ledPin = 6;    // pin for LED
+int sensorValue = 0; // variable to store Vout of microphone
+  
+void setup() {
+  // declare ledPin as OUTPUT
+  pinMode(ledPin, OUTPUT);
+  // open 9600-baud serial connection
+  Serial.begin(9600);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  // read value from sensor
+  sensorValue = analogRead(sensorPin);
+  // write sensor value to serial interface
+  Serial.println(sensorValue);
+  //turn ledPin on
+  if (sensorValue > 1) {          // when microphone detects noise
+    digitalWrite(ledPin, HIGH);   // turn the LED on (HIGH is the voltage level)
+    delay(1000);
+    digitalWrite(ledPin, LOW);   // turn LED off
+    delay(1000);
+  }
+}
+
